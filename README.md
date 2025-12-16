@@ -22,7 +22,6 @@ The game randomly selects a Turkish word and challenges the player to guess it w
 
 <h3>Notes</h3>
 <ul>
-  <li>This project does not use any external libraries or frameworks.</li>
   <li>All logic is handled with pure JavaScript.</li>
   <li>Designed for learning and practicing DOM manipulation and game logic.</li>
 </ul>
